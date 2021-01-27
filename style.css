@@ -1,0 +1,102 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #2f3035;
+    background-image: url(imazhe/Untitled\ design\ \(13\).png);
+    background-size: cover;
+    background-position: center;
+}
+
+.kuti {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    width: 1024px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.247);
+    width: 1024px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 5px;
+}
+
+main {
+    height: 400px;
+    width: 1024px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.507);
+    width: 1024px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: white;
+
+}
+
+img {
+    width: 185px;
+    height: 135px;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+     
+}
+
+p {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    /* text-decoration: none; */
+}
+
+.biz {
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+}
+
+.nav {
+    text-decoration: none;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.nav1 {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.maps {
+    padding-top: 50px;
+}
+
+iframe {
+    padding-bottom: 50px;
+}
